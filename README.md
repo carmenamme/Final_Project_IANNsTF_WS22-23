@@ -2,6 +2,8 @@
 
 Welcome the GitGuh repository that holds all the code for the final project of the course 'Implementing Artificial Neural Networks with TensorFlow' (WS 22/23) by Anneke Büürma (995025) and Carmen Amme (994813).
 
+We used the NSD Special100 dataset to compare different model architectures and their representations along early, middle and late layers by using Representational Similarity Analysis. We also made comparisons between model representations and fMRI brain data of the same dataset in early, middle and late areas of the visual hierarchy. We also implemented and trained 1 convolutional neural network ourselves to compare the emerging representations along the layers to the pre-trained models and fMRI brain data. 
+
 In this repository you will find:
 
 - The following py. files containing self-written functions for data analysis and model training:
@@ -22,3 +24,5 @@ This is a link to the Google Drive folder that holds the fMRI data, the NSD spec
 
 This is the link to the GoogleColab sheet that holds all the code to run the functions from the py. files. https://colab.research.google.com/drive/1lzurz4VYAnlwTW0IK9OfMJ1e4yvJ4pfB?usp=sharing 
 Make sure to upload the py. files to GoogleColab before running the code. Also make sure to adjust the paths to the data.
+
+This is a link to download the training data that was used to train our model. https://drive.google.com/file/d/1qw8MUwGxm8Yz899_SnnCSsMHVby-CYl-/view
