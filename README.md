@@ -2,7 +2,7 @@
 
 Welcome the GitGuh repository that holds all the code for the final project of the course 'Implementing Artificial Neural Networks with TensorFlow' (WS 22/23) by Anneke Büürma (995025) and Carmen Amme (994813).
 
-We used the NSD Special100 dataset to compare different model architectures and their representations along early, middle and late layers by using Representational Similarity Analysis. We also made comparisons between model representations and fMRI brain data of the same dataset in early, middle and late areas of the visual hierarchy. We also implemented and trained 1 convolutional neural network ourselves to compare the emerging representations along the layers to the pre-trained models and fMRI brain data. 
+We used the NSD Special100 dataset to compare different model architectures and their representations along early, middle and late layers by using Representational Similarity Analysis. We also made comparisons between model representations and fMRI brain data of the same dataset in early, middle and late areas of the visual hierarchy. We also implemented and trained one convolutional neural network ourselves to compare the emerging representations along the layers to the pre-trained models and fMRI brain data. 
 
 In this repository you will find:
 
